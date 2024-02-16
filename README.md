@@ -1,3 +1,2 @@
 # Bumper_Rockets
-A my first game that is a work in progress
-Its only the code that i made to make it function
+My third attempt at a game, I need to make it into a better optimised as a single player game. Still needs work done.
